@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ...
+  - PHP
+    - Laravel
+  - Kotlin
+    - Ktor
+- 📫 How to reach me: ...
+  - https://github.com/flamerecca/flamerecca/pulls
 <!--
 **flamerecca/flamerecca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
