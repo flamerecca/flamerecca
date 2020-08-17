@@ -2,11 +2,15 @@
 
 - 🌱 I’m currently learning ...
   - PHP
-    - Laravel
+    - [Laravel](https://laravel.com/)
   - Kotlin
-    - Ktor
+    - [Ktor](https://ktor.io/)
+    - [exposed](https://github.com/JetBrains/Exposed)
+- 🤔 I’m looking for help with ...
+  - Translating Laravel Document in Traditional Chinese
+    - https://github.com/laravel-taiwan/docs
 - 📫 How to reach me: ...
-  - https://github.com/flamerecca/flamerecca/pulls
+  - https://github.com/flamerecca/flamerecca/issues
 <!--
 **flamerecca/flamerecca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
