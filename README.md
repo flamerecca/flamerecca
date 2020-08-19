@@ -6,6 +6,8 @@
   - Kotlin
     - [Ktor](https://ktor.io/)
     - [exposed](https://github.com/JetBrains/Exposed)
+  - 雙碼注音輸入法
+    - https://github.com/imper0502/rime-double-bopomo
 - 🤔 I’m looking for help with ...
   - Translating Laravel Document in Traditional Chinese
     - https://github.com/laravel-taiwan/docs
