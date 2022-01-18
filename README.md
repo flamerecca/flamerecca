@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ...
-  - PHP
-    - [Laravel](https://laravel.com/)
   - Kotlin
     - [Ktor](https://ktor.io/)
     - [exposed](https://github.com/JetBrains/Exposed)
+  - PHP
+    - [Laravel](https://laravel.com/)
   - 雙碼注音輸入法
     - https://github.com/imper0502/rime-double-bopomo
 - 🤔 I’m looking for help with ...
