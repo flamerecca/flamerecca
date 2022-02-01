@@ -14,7 +14,9 @@
 - 📫 How to reach me: ...
   - https://github.com/flamerecca/flamerecca/issues
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=flamerecca&theme=dark&show_icons=true" alt="tpai" /> </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=flamerecca&theme=dark&show_icons=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flamerecca&theme=dark&layout=compact&show_icons=true&langs_count=10)
 
 <!--
 **flamerecca/flamerecca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
