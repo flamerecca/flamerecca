@@ -18,6 +18,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flamerecca&theme=dark&layout=compact&show_icons=true&langs_count=10)
 
+![github-profile-trophy.vercel.app](https://github-profile-trophy.vercel.app/?username=flamerecca&theme=flat&no-frame=true&margin-w=30)
+
 <!--
 **flamerecca/flamerecca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
