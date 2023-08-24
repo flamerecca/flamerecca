@@ -4,6 +4,7 @@
   - Kotlin
     - [Ktor](https://ktor.io/)
     - [exposed](https://github.com/JetBrains/Exposed)
+    - [javalin](https://github.com/javalin/javalin)
   - PHP
     - [Laravel](https://laravel.com/)
   - 雙碼注音輸入法
