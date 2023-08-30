@@ -21,6 +21,7 @@
 
 ![github-profile-trophy.vercel.app](https://github-profile-trophy.vercel.app/?username=flamerecca&theme=onedark&no-frame=true&margin-w=30)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=flamerecca)
 <!--
 **flamerecca/flamerecca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
