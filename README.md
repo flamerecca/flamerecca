@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...
   - Kotlin
     - [Ktor](https://ktor.io/)
+    - [quarkus](https://quarkus.io/)
     - [exposed](https://github.com/JetBrains/Exposed)
     - [javalin](https://github.com/javalin/javalin)
   - PHP
