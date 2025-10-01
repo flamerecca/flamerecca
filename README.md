@@ -9,7 +9,7 @@
   - PHP
     - [Laravel](https://laravel.com/)
     - [Filament](https://filamentphp.com/)
-    - [Laravel Blueprint](https://blueprint.laravelshift.com/)
+    - [Laravel Boost](https://github.com/laravel/boost)
   - 雙碼注音輸入法
     - https://github.com/imper0502/rime-double-bopomo
 - 🤔 I’m looking for help with ...
